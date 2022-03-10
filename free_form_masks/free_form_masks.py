@@ -1,16 +1,9 @@
 # Imports
-import requests
-import pandas as pd
-import io
-from io import BytesIO
 
 import numpy as np
 import random
 import math
 from PIL import Image, ImageDraw
-from matplotlib import pyplot as plt
-
-# Create the mask
 
 np.random.seed(37)
 
